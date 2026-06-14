@@ -278,12 +278,6 @@ CHROMA_PERSIST_DIRECTORY=./data/chroma
 
 ---
 
-###  Screenshots
-
-> *(Add screenshots here: Dashboard, Graph visualization, Chat interface, Timeline, Documents page)*
-
----
-
 ###  Roadmap
 
 - [ ] Multi-user collaborative workspaces
